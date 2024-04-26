@@ -33,3 +33,7 @@ i  functions: cleaning up build files...
 
 ✔  Deploy complete!
 ```
+
+## Notes
+
+`test-app` is only used to check if the deployed function works
